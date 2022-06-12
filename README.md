@@ -1,21 +1,20 @@
-<h1 align="center">Hi 👋, I'm Oreoluwa</h1>
-<h3 align="center">I'm A Machine Learning Engineer passionate about building Computer Vision and Natural Language Processing Systems</h3>
+<h1 align="center">Hi 👋, I'm Oreoluwa.</h1>
+<h3 align="center">I'm A Machine Learning Engineer passionate about building Computer Vision and Natural Language Processing Systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhoroh&label=Profile%20views&color=0e75b6&style=flat" alt="zhoroh" /> </p>
 
-- 🔭 I’m currently working on **an AI Analytics system for automating basketball match highlights with [rectlabs.com](https://rectlabs.com/).**
+- 🔭 I’m currently working on **an AI Analytics system for automating basketball match highlights with [rectlabs.com](https://rectlabs.com/) using Computer Vision Techniques.**
 
-- 🌱 I’m currently learning **Machine Learning with Azure Cloud in the Microsoft NG30 days of Learning**
+- 🌱 I’m currently learning **Machine Learning with Azure Cloud in the Microsoft NG30 days of Learning.**
 
-- 👯 I’m looking to collaborate on **problems and projects that can be efficiently solved with Machine Learning and Deep Learning Techniques**
+- 👯 I’m looking to collaborate on **problems and projects that can be efficiently solved with Machine Learning and Deep Learning Techniques.**
 
-- 👨‍💻 All of my personal projects are available here [https://github.com/zhoroh?tab=repositories](https://github.com/zhoroh?tab=repositories)
+- 👨‍💻 All of my personal projects are available here [https://github.com/zhoroh?tab=repositories](https://github.com/zhoroh?tab=repositories) .
 
-- 📝 I regularly write articles on [https://medium.com/@bolarinwaoreoluwa24](https://medium.com/@bolarinwaoreoluwa24)
+- 📝 I regularly write articles on [https://medium.com/@bolarinwaoreoluwa24](https://medium.com/@bolarinwaoreoluwa24) .
 
-- 📫 How to reach me **bolarinwaoreoluwa24@gmail.com**
+- 📫 How to reach me **bolarinwaoreoluwa24@gmail.com** .
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
