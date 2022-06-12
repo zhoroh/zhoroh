@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Oreoluwa</h1>
-<h3 align="center">A Machine Learning Engineer passionate about building Computer Vision and Natural Language Processing Systems</h3>
+<h3 align="center">I'm A Machine Learning Engineer passionate about building Computer Vision and Natural Language Processing Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhoroh&label=Profile%20views&color=0e75b6&style=flat" alt="zhoroh" /> </p>
 
-- 🔭 I’m currently working on **an AI Analytics system for automating basketball match highlights.**
+- 🔭 I’m currently working on **an AI Analytics system for automating basketball match highlights with rectlabs.com.**
 
 - 🌱 I’m currently learning **Machine Learning with Azure Cloud in the Microsoft NG30 days of Learning**
 
 - 👯 I’m looking to collaborate on **problems and projects that can be efficiently solved with Machine Learning and Deep Learning Techniques**
+
+- 👨‍💻 All of my personal projects are available here [https://github.com/zhoroh?tab=repositories](https://github.com/zhoroh?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@bolarinwaoreoluwa24](https://medium.com/@bolarinwaoreoluwa24)
 
@@ -21,6 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/bolarinwa-oreoluwa-404788210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bolarinwa-oreoluwa-404788210" height="30" width="40" /></a>
 <a href="https://medium.com/@bolarinwaoreoluwa24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bolarinwaoreoluwa24" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucvxsd6r3pnm4qmwluy-8spa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucvxsd6r3pnm4qmwluy-8spa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
