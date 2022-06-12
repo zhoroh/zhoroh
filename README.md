@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhoroh&label=Profile%20views&color=0e75b6&style=flat" alt="zhoroh" /> </p>
 
-- 🔭 I’m currently working on **an AI Analytics system for automating basketball match highlights with [rectlabs.com](rectlabs.com).**
+- 🔭 I’m currently working on **an AI Analytics system for automating basketball match highlights with [rectlabs.com](https://rectlabs.com/).**
 
 - 🌱 I’m currently learning **Machine Learning with Azure Cloud in the Microsoft NG30 days of Learning**
 
