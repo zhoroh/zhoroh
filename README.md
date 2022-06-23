@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **an AI Analytics system for automating basketball match highlights with [rectlabs](https://rectlabs.com/) using Computer Vision Techniques.**
 
-- 🌱 I’m currently learning **Machine Learning with Azure Cloud in the Microsoft NG30 days of Learning.**
-
 - 👯 I’m looking to collaborate on **problems and projects that can be efficiently solved with Machine Learning and Deep Learning Techniques.**
 
 - 👨‍💻 All of my personal projects are available here [https://github.com/zhoroh?tab=repositories](https://github.com/zhoroh?tab=repositories) .
