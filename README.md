@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhoroh&label=Profile%20views&color=0e75b6&style=flat" alt="zhoroh" /> </p>
 
-- 🔭 I’m currently working on **an AI Analytics system for automating basketball match highlights with [rectlabs](https://rectlabs.com/) using Computer Vision Techniques.**
 
 - 👯 I’m looking to collaborate on **problems and projects that can be efficiently solved with Machine Learning and Deep Learning Techniques.**
 
